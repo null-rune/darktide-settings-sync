@@ -2,6 +2,8 @@
 
 A lightweight, standalone desktop tool for Warhammer 40,000: Darktide players to easily share, inspect, and selectively merge mod settings with friends without overwriting keybindings, graphics, or audio settings.
 
+tiny update
+update 2
 No installation, runtime, or dependencies required — just a single executable.
 
 ---
