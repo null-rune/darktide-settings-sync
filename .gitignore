@@ -1,0 +1,15 @@
+# Binaries and executables
+*.exe
+*.exe.tmp
+*.bin
+darktide-settings-sync
+
+# Darktide settings backups
+*.bak
+
+# Go test binaries
+*.test
+
+# OS files
+Thumbs.db
+.DS_Store
